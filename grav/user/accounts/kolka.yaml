@@ -1,0 +1,11 @@
+email: shmatkov.nick@gmail.com
+fullname: Kolka
+title: Shmatkov
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$9r4.pAFlWoaH9UUFWGh/jOkmU8DWzUD4rNjoY85t78DfztiwlS0/q
